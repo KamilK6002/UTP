@@ -1,6 +1,6 @@
 public class Substractor {
 
-    public int substract(int a, int b) {
+    public static int substract(int a, int b) {
         return a - b;
     }
 }
